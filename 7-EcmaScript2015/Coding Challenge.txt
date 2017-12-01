@@ -1,0 +1,28 @@
+Small town admin
+Two town elements.
+1. Parks
+2. Streets
+
+Only 3 parks and 4 streets. More can be added
+All parks and streets have a name and a build year
+
+Report containing the following:
+1. Tree density of each park in the town
+(no. of trees / park area)
+2. Avg age of each town park(
+sum of all ages / no. of parks)
+3.The name of the park that has more than 1000 trees, make up one
+4. Total and average length of the towns streets
+5. Size classification of all the streets
+tiny/small/normal/big/huge. If unknown the default is normal
+
+all the report data should be printed to the console
+
+Use some of the ES6 features
+classes,
+subclasses,
+template strings, 
+default params,
+maps, 
+arrow functionc
+destructuring
